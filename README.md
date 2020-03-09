@@ -10,4 +10,5 @@ Description: A single-item adaptive test selects an item to minimize the measure
 <br><b>Programming Langauge</b>: R
 <br><b>Package</b>:R default plot package
 
-### 2. Color-Coded Correlation 
+### 2. A Versatile Correlation Matrix
+Description: A correlation matrix that presents the correlations in 3 ways(number, color and size) to accustomize for different ways of proecessing information. The correlations, as descriptive measures of relation, are normally presented early-on in a presentation, blog or a report to provide a general sense of the data. This versatile plot makes sure that the audience/readers comprehend the information with the lowest cognitive load and are ready to move along with you to the following. 
