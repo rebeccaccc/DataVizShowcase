@@ -15,5 +15,17 @@ Description: A correlation matrix that presents the correlations in 3 ways(numbe
 <br><b>Programming Langauge</b>: R
 <br><b>Package</b>:corrplot
 
-### 3. Barplot for Model Comparison
+### 3. Barplots for Model Comparison
+Description: These two plots are from my dissertation. My disseration proposes a new mathmatics model to account for multiple facets of dependencies in students' responses to items in the same test, for 1) presense of testlets (e.g. 5 items nested within a reading passage) and 2) the presence of double-coded items (e.g. an math test item assessing both logic and probability). 
+<br>The first plot is to compare bias of item discrimination parameter estimates across models for all items. The bias for items with dependencies(item 21-30) are much larger when fitted with models ignoring the dependency(i.e. T-MIRID, MIRID and 2PL). 
+<br><b>Programming Langauge</b>: Excel 
+<br><b>Functionality</b>: VBA Macro
 
+<br>The second plot is to compare ....
+<br><b>Programming Langauge</b>: R 
+<br><b>Package</b>: ggplot2
+
+### 4. Line Plot for Investigating the Relation between the Difference of Variable and Another Variable
+Description: 
+<br><b>Programming Langauge</b>: R 
+<br><b>Package</b>: ggplot2
